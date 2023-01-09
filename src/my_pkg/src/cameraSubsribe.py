@@ -20,10 +20,10 @@ def service_callback(request):
     return response
 
 # Initialize the node
-rospy.init_node('my_node')
+rospy.init_node('my_camera_node')
 
 # Create a publisher
-pub = rospy.Publisher('my_topic', String, queue_size=10)
+pub = rospy.Publisher('my_camera_sub_topic', String, queue_size=10)
 
 # Create a subscriber
 sub = rospy.Subscriber('CupInfo', String, callback)
