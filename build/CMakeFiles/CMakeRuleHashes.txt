@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+81aa6d759472bee95de14166d39bcdc4 /home/flamefire/beerbot_ws/devel/include/my_pkg/Camera.h
+397841f0475ef4333ab136645683314b /home/flamefire/beerbot_ws/devel/lib/python2.7/dist-packages/my_pkg/msg/_Camera.py
+f1685a246d829dee1d2580044c69684c /home/flamefire/beerbot_ws/devel/lib/python2.7/dist-packages/my_pkg/msg/__init__.py
+fa951471c14b086cf2aa879edd75e689 /home/flamefire/beerbot_ws/devel/share/common-lisp/ros/my_pkg/msg/Camera.lisp
+754053e8946bc30d145eb371a01f911c /home/flamefire/beerbot_ws/devel/share/gennodejs/ros/my_pkg/msg/Camera.js
+e678c8f9b80ca982a163267b83d2ebfc /home/flamefire/beerbot_ws/devel/share/roseus/ros/my_pkg/manifest.l
+d03fe50a1743a79d0b6b9314d885241e /home/flamefire/beerbot_ws/devel/share/roseus/ros/my_pkg/msg/Camera.l
+45a42e9a8ade79fcb3ac904b0599e2b4 CMakeFiles/clean_test_results
+37d452bdb13a9ba5524559dfacf9f80d my_pkg/CMakeFiles/_my_pkg_generate_messages_check_deps_Camera
+bf33c268bedb5e1213e23bdefa60ae61 my_pkg/CMakeFiles/my_pkg_generate_messages_cpp
+bf33c268bedb5e1213e23bdefa60ae61 my_pkg/CMakeFiles/my_pkg_generate_messages_eus
+bf33c268bedb5e1213e23bdefa60ae61 my_pkg/CMakeFiles/my_pkg_generate_messages_lisp
+bf33c268bedb5e1213e23bdefa60ae61 my_pkg/CMakeFiles/my_pkg_generate_messages_nodejs
+bf33c268bedb5e1213e23bdefa60ae61 my_pkg/CMakeFiles/my_pkg_generate_messages_py

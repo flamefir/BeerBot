@@ -1,0 +1,2 @@
+my_pkg
+-DCATKIN_DEVEL_PREFIX=/home/flamefire/beerbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/flamefire/beerbot_ws/install -G Unix Makefiles
